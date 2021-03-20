@@ -1,0 +1,3 @@
+- 👋 Hi, I’m  mohammadreza Nazemzadegan
+- 🌱 I’m currently learning machine learning by python
+- 📫 reach me at @Nazemzadegan and mr.nazemzadegan@gmail.com
